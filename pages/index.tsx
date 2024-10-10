@@ -227,7 +227,7 @@ export default function Home() {
             </Flex>
           </CardHeader>
 
-          <CardBody background={"black"} >
+          <CardBody background={"white"} >
             <Center>
               <Box
                 rounded={'lg'}
