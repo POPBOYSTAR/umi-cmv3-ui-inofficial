@@ -9,13 +9,13 @@
     --darker-accent-rgb: 0, 204, 150;
     --on-accent-rgb: 0, 0, 0;
 
-    --foreground-rgb: 255, 255, 255;
-    --secondary-foreground-rgb: 107, 114, 128;
+    --foreground-rgb:  0, 0, 0;
+    --secondary-foreground-rgb:  0, 0, 0;
 
     --background-rgb: 0, 0, 0;
-    --secondary-background-rgb: 249, 250, 251;
-    --tertiary-background-rgb: 209, 213, 219;
-    --hover-background-rgb: 243, 244, 246;
+    --secondary-background-rgb:  0, 0, 0;
+    --tertiary-background-rgb:  0, 0, 0;
+    --hover-background-rgb:  0, 0, 0;
 }
 
 @media (prefers-color-scheme: dark) {
