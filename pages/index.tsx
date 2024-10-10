@@ -208,7 +208,7 @@ export default function Home() {
        }
    `}
         </style>
-        <Center><p style = {{color:white}} fontWeight={"semibold"}><b>ALWAYS ONLINE NEEDS YOUR HELP IN THE DESIGN CONTEST!</b></p></Center>
+        <Center><p style = {{color:white}} fontWeight={"semibold"}>ALWAYS ONLINE NEEDS YOUR HELP IN THE DESIGN CONTEST!</p></Center>
         <Card>
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
