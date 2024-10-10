@@ -212,11 +212,11 @@ export default function Home() {
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
               <Box>
-                <Heading size='md'>{headerText}</Heading>
+                <Heading size='md'>{headerText} NFT</Heading>
               </Box>
               {loading ? (<></>) : (
                 <Flex justifyContent="flex-end" marginLeft="auto">
-                  <Box background={"teal.100"} borderRadius={"5px"} minWidth={"50px"} minHeight={"50px"} p={2} >
+                  <Box background={"black"} borderRadius={"5px"} minWidth={"50px"} minHeight={"50px"} p={2} >
                     <VStack >
                       <Text fontSize={"sm"}>Available NFTs:</Text>
                       <Text fontWeight={"semibold"}>{Number(candyMachine?.data.itemsAvailable) - Number(candyMachine?.itemsRedeemed)}/{Number(candyMachine?.data.itemsAvailable)}</Text>
@@ -235,7 +235,7 @@ export default function Home() {
                 pos={'relative'}>
                 <Image
                   rounded={'lg'}
-                  height={230}
+                  height={280}
                   objectFit={'cover'}
                   alt={"project Image"}
                   src={image}
