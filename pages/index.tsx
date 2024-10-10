@@ -203,11 +203,12 @@ export default function Home() {
         <style jsx global>
           {`
       body {
-           background-image: url("https://i.ibb.co/VBJRb2g/IMG-3918.gif"); 
+           background-image: url("https://i.ibb.co/p2yh5K8/image-2024-10-09-232539613.png"); 
            background-repeat: repeat; 
        }
    `}
         </style>
+        <CENTER><font color="#000000"><b>ALWAYS ONLINE NEEDS YOUR HELP IN THE DESIGN CONTEST!</b></font></CENTER>
         <Card>
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
