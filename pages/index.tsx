@@ -17,7 +17,7 @@ import { ShowNft } from "../components/showNft";
 import { InitializeModal } from "../components/initializeModal";
 import { image, headerText } from "../settings";
 import { useSolanaTime } from "@/utils/SolanaTimeContext";
-
+<Center><Text fontWeight={"bold"}>help</Text></Center>
 const WalletMultiButtonDynamic = dynamic(
   async () =>
     (await import("@solana/wallet-adapter-react-ui")).WalletMultiButton,
@@ -208,7 +208,7 @@ export default function Home() {
        }
    `}
         </style>
-        <Center><Text fontWeight={"semibold"}>ALWAYS ONLINE NEEDS YOUR HELP IN THE DESIGN CONTEST!</Text></Center>
+        <Center><Text fontWeight={"bold"}>ALWAYS ONLINE NEEDS YOUR HELP IN THE DESIGN CONTEST!</Text></Center>
         <Card>
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
