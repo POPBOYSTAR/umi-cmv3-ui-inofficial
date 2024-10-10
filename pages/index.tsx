@@ -203,7 +203,8 @@ export default function Home() {
         <style jsx global>
           {`
       body {
-          background: #2d3748; 
+           background-image: url("https://i.ibb.co/VBJRb2g/IMG-3918.gif"); 
+           background-repeat: no-repeat; 
        }
    `}
         </style>
