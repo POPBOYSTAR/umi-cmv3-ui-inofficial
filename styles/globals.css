@@ -15,7 +15,7 @@
     --background-rgb: 0, 0, 0;
     --secondary-background-rgb:   0, 0, 0;
     --tertiary-background-rgb:   0, 0, 0;
-    --hover-background-rgb:  243, 244, 246;
+    --hover-background-rgb:   0, 0, 0;
 }
 
 @media (prefers-color-scheme: dark) {
