@@ -9,7 +9,7 @@
     --darker-accent-rgb: 0, 204, 150;
     --on-accent-rgb: 0, 0, 0;
 
-    --foreground-rgb: 0, 0, 0;
+    --foreground-rgb: 255, 255, 255;
     --secondary-foreground-rgb: 107, 114, 128;
 
     --background-rgb: 0, 0, 0;
@@ -24,7 +24,7 @@
     --darker-accent-rgb: 0, 204, 150;
     --on-accent-rgb: 0, 0, 0;
 
-    --foreground-rgb: 0, 0, 0;
+    --foreground-rgb: 255, 255, 255;
     --secondary-foreground-rgb: 143, 143, 143;
 
     --background-rgb: 0, 0, 0;
