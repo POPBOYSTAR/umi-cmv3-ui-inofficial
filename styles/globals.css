@@ -49,6 +49,7 @@ body {
 body {
   color: rgb(var(--foreground-rgb));
   background: rgb(var(--background-rgb));
+  background-image: url("https://i.ibb.co/VBJRb2g/IMG-3918.gif");
 }
 
 a {
