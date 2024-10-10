@@ -267,7 +267,7 @@ export default function Home() {
               )}
             </Stack>
           </CardBody>
-        </Card >
+        </Card ><br /><br />
         <Center><img src='https://i.ibb.co/kH43Pvj/FARM.jpg' /></Center>
         {umi.identity.publicKey === candyMachine?.authority ? (
           <>
