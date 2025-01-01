@@ -3,7 +3,7 @@
 export const mintText = [
   { label: "WL", mintText: "WL mint paying with 0.0 SOL", buttonLabel: "Mint now!", header: "WHITE LIST MINT" },
   { label: "OG", mintText: "Mint Paying with ABC", buttonLabel: "Mint now!", header: "OG Mint" },
-  { label: "publi", mintText: "Mint Paying with DEF", buttonLabel: "Mint now!", header: "Public Mint" },
+  { label: "public", mintText: "PUBLIC MINT IS 0.51 SOL", buttonLabel: "Mint now!", header: "PUBLIC MINT" },
   { label: "default", mintText: "default mintText", buttonLabel: "Mint now!", header: "Default"},
   { label: "DL", mintText: "PUBLIC MINT 0.03 SOL", buttonLabel: "Mint now!", header: "PUBLIC MINT"}
 ];
