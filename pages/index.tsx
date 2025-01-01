@@ -204,11 +204,11 @@ export default function Home() {
           {`
       body {
            background-image: url("https://i.ibb.co/p2yh5K8/image-2024-10-09-232539613.png"); 
-           background-repeat: repeat; 
+           background-repeat: cover; 
        }
    `}
         </style>
-        <Center><Text fontWeight={"bold"}>ALWAYS ONLINE NEEDS YOUR HELP IN THE DESIGN CONTEST!</Text></Center>
+        <Center><Text fontWeight={"bold"}>ALWAYS ONLINE NOW MINTING!</Text></Center>
         <Card>
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
