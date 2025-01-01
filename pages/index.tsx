@@ -204,7 +204,7 @@ export default function Home() {
           {`
       body {
            background-image: url("https://i.ibb.co/p2yh5K8/image-2024-10-09-232539613.png"); 
-           background-repeat: cover; 
+           background: cover; 
        }
    `}
         </style>
