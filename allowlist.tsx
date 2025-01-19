@@ -3,31 +3,31 @@
 export const allowLists = new Map<string, Array<string>> ([
     ["WL",
     [
-        "8FqnuTS4x1NRswFVEPfvytXkPwkDBYUNMUQKuSZSmaYn"
-        "7arPQEZdfwKPdSB5on5CYmeocDeSy5Jy7fZhd3Fe5gmH"
-        "5GZHzyHcTkJQ5gmyJy7T6KJMxp59YoSPUK4LFdxs3k99"
-        "HsfFLwuXgSxd9BhuMi4RFpHe3fpZxE8LxRN1hjcbRfQB"
-        "5ViBAXQwd1Qqh9CWPYcGHup9JKP8cecJZS9MfefV1XYE"
-        "GFnmPQqSEXdWAjAFt4ZgZdP1jXhzp8V2yyfmGbpc8HAX"
-        "6eonmsfiSy4doKgpP6EXcoCvhfn9ShaWQan2HP6E52FB"
-        "CgpWh2UZgLes2J1asJkPNro2V31Kv495JTtfYD6czgQd"
-        "CGxu8fgLoEAbqUYKsGf15yajCL4XGBFCpK5ihjubCyHc"
-        "8Df4rHypQ1maZMTRhzrSq3eskkM6SaUmhsW6RNqTc2Cu"
-        "ExJhfNLABWqsUBf1K8aa5X7CxmUdzGCfwJLdt3hA86oV"
-        "6f95fG1PZdnfgFR1FkTM6QUZbawjgWLNaTUsBHNPjznN"
-        "EofGg9HBGzkEn3qm1aeVVyb1zgDtyRk1J94RfcZGHnko"
-        "Dr9ticsbodceVXbUZQrDghmNdkjQvVAjJ41fJj3dbMyw"
-        "4KjeLkjLeEoanZ8tVb2AsUGvRiLPTrvhdEAnt2GQzVCU"
-        "EicpUvLLXqJzwv6sDX2xX5WHkV1UjtFpKqNB4TEjbwN5"
-        "64qLheHptcpi22FkTRWvrwGjXrw9skhLsqBn42WLzHob"
-        "5nZwqyvtW65ZraF1NeUHuji8aHtxUa2mjax2WUtBhe3a"
-        "66wtwRMw5sKkoVj8qRYiLrdmwuaUt3wMAn5ZfueuHMpR"
-        "6aVm2FtiqU4Z5swHFPdzVRmyCvN8QiAJKqcdsDfo919f"
-        "4Ymm4HLsKzi8v62aQPz8ZZ2t7NM2vorT64GZ2qsxQ5kp"
-        "13n67sc5rbdbDqNiJku3p5J2UiYngr1HQXunkRheAj5N"
-        "3dRyzejGvK9kxEx9mT31tQj7RiadoxjMJdRZWvRmypx9"
-        "DEEhXJ4MbNLySpewSvbz3SAZUPnHWxCJi75QNS2KkehC"
-        "4scNssxRzpNpEDAZEwRz4nXrLz7W4eB9q32RWvqo48xQ"
+        "8FqnuTS4x1NRswFVEPfvytXkPwkDBYUNMUQKuSZSmaYn",
+        "7arPQEZdfwKPdSB5on5CYmeocDeSy5Jy7fZhd3Fe5gmH",
+        "5GZHzyHcTkJQ5gmyJy7T6KJMxp59YoSPUK4LFdxs3k99",
+        "HsfFLwuXgSxd9BhuMi4RFpHe3fpZxE8LxRN1hjcbRfQB",
+        "5ViBAXQwd1Qqh9CWPYcGHup9JKP8cecJZS9MfefV1XYE",
+        "GFnmPQqSEXdWAjAFt4ZgZdP1jXhzp8V2yyfmGbpc8HAX",
+        "6eonmsfiSy4doKgpP6EXcoCvhfn9ShaWQan2HP6E52FB",
+        "CgpWh2UZgLes2J1asJkPNro2V31Kv495JTtfYD6czgQd",
+        "CGxu8fgLoEAbqUYKsGf15yajCL4XGBFCpK5ihjubCyHc",
+        "8Df4rHypQ1maZMTRhzrSq3eskkM6SaUmhsW6RNqTc2Cu",
+        "ExJhfNLABWqsUBf1K8aa5X7CxmUdzGCfwJLdt3hA86oV",
+        "6f95fG1PZdnfgFR1FkTM6QUZbawjgWLNaTUsBHNPjznN",
+        "EofGg9HBGzkEn3qm1aeVVyb1zgDtyRk1J94RfcZGHnko",
+        "Dr9ticsbodceVXbUZQrDghmNdkjQvVAjJ41fJj3dbMyw",
+        "4KjeLkjLeEoanZ8tVb2AsUGvRiLPTrvhdEAnt2GQzVCU",
+        "EicpUvLLXqJzwv6sDX2xX5WHkV1UjtFpKqNB4TEjbwN5",
+        "64qLheHptcpi22FkTRWvrwGjXrw9skhLsqBn42WLzHob",
+        "5nZwqyvtW65ZraF1NeUHuji8aHtxUa2mjax2WUtBhe3a",
+        "66wtwRMw5sKkoVj8qRYiLrdmwuaUt3wMAn5ZfueuHMpR",
+        "6aVm2FtiqU4Z5swHFPdzVRmyCvN8QiAJKqcdsDfo919f",
+        "4Ymm4HLsKzi8v62aQPz8ZZ2t7NM2vorT64GZ2qsxQ5kp",
+        "13n67sc5rbdbDqNiJku3p5J2UiYngr1HQXunkRheAj5N",
+        "3dRyzejGvK9kxEx9mT31tQj7RiadoxjMJdRZWvRmypx9",
+        "DEEhXJ4MbNLySpewSvbz3SAZUPnHWxCJi75QNS2KkehC",
+        "4scNssxRzpNpEDAZEwRz4nXrLz7W4eB9q32RWvqo48xQ",
         "JAx5hPQAHPikpzGNZQ6PMPfJmd2L6Vg41n4u4ayYcy5Q",
         "5m8YY1jEv3rWwm1AvCbnrMZ6VrTec8WVcJDuF5VjtLQs",
         "F3JPxow46ftcqYKEvUS9Bhokee9jiLE2gyt5ZJJ9Tboi",
