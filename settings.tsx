@@ -5,7 +5,7 @@ export const mintText = [
   { label: "OG", mintText: "Mint Paying with ABC", buttonLabel: "Mint now!", header: "OG Mint" },
   { label: "public", mintText: "PUBLIC MINT IS 0.51 SOL", buttonLabel: "Mint now!", header: "PUBLIC MINT" },
   { label: "default", mintText: "default mintText", buttonLabel: "Mint now!", header: "Default"},
-  { label: "DL", mintText: "PUBLIC MINT 0.03 SOL", buttonLabel: "Mint now!", header: "PUBLIC MINT"}
+  { label: "team", mintText: "team", buttonLabel: "Mint now!", header: "TEAM MINT"}
 ];
 
 //header image in the ui. replace with your own
